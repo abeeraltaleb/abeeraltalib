@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm ABEER ALTALIB, a Machine Learning Enthusiast 🤖
 
-###🚀 Exploring the AI universe one project at a time! Here are some of my interstellar adventures:
+### 🚀 Exploring the AI universe one project at a time! Here are some of my interstellar adventures:
 
 #### 1. 🕵️‍♂️ RedFlag_App: Unmasking shady text messages with the power of ML!
 #### 2. 😄 Sentiment Analysis: I can tell if that tweet is happy, sad, or just plain cryptic!
