@@ -5,7 +5,7 @@
 #### 1. 🕵️‍♂️ RedFlag_App: Unmasking shady text messages with the power of ML!
 #### 2. 😄 Sentiment Analysis: I can tell if that tweet is happy, sad, or just plain cryptic!
 #### 3. 🧠 Predicting Stroke: Not the kind you play with! Predicting strokes with data magic.
-#### 6. 🔥 Fire Detection: Keeping things cool by spotting flames before they rage.
+#### 4. 🔥 Fire Detection: Keeping things cool by spotting flames before they rage.
 
 ### 👾 My coding arsenal includes Python, Matplotlib, Keras, TensorFlow, scikit-learn, NLP sorcery, Computer Vision tricks, Deep Learning spells, and the art of Machine Learning!
 
