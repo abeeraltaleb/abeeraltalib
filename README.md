@@ -14,4 +14,4 @@
 #### 🌌 Join me on this coding odyssey, and let's make AI simple, fun, and accessible for everyone!
 
 ##### 📫 Reach out: abeer.altalib@gmail.com
-#####🌐 Explore more: https://twitter.com/notme_20n
+##### 🌐 Explore more: https://twitter.com/notme_20n
